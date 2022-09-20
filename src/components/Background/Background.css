@@ -1,0 +1,11 @@
+.bg-Div{
+    width:99vw;
+    height: 35vw;
+    mask:linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+    margin-bottom: 9vw;
+}
+
+.bg-Div > img{
+    width: 100vw;
+    
+}

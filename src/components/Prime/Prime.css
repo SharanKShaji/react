@@ -1,0 +1,25 @@
+.primediv{
+    padding-left: 10vw;
+    padding-top: 10vw;
+
+}
+.primeh1{
+    font-weight: 700;
+    text-align: left;
+    /* padding-left: 10vw; */
+}
+
+.primeh2{
+    text-align: left;
+    /* font-weight: 600; */
+    /* padding-left: 10vw; */
+}
+
+.primeh2span{
+    text-decoration:line-through;
+}
+
+.primeh2span2{
+    color: red;
+    padding-left: 2px;
+}

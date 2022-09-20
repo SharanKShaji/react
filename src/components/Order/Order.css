@@ -1,0 +1,33 @@
+.Order-main{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 7vw;
+    /* border: 1px solid black; */
+    
+}
+
+.Order-product{
+    /* background-color: aqua; */
+    display: grid;
+    /* border: 1px solid black; */
+    justify-content: center;
+    grid-template-columns: auto auto auto auto ;
+}
+
+.Order-total{
+    margin-top: 1vw;
+    background-color: #e9e9e9;
+}
+
+.order-id{
+    font-size: 12px;
+}
+
+.Order-sum{
+    color: red;
+}
+
+.orderX{
+    text-align: center;
+    padding-left: 10vw;
+}

@@ -1,0 +1,61 @@
+h1{
+    text-align: center;
+}
+.mainF{
+    justify-content: center;
+    display:grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 9vw;
+    border: 1px solid black;
+    margin:10px 10vw;
+    background-color: black;
+}
+
+.con-filterbody{
+    width: 11vw;
+    height: 13vw;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.conimg{
+    width: 7vw;
+    height: 7vw;
+    margin: auto;
+}
+.conimg> img{
+    height: 100%;
+    width: 100%;
+}
+
+.conid{
+    display: none;
+}
+
+.conname{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.conprice{
+    color: red;
+}
+
+.cart-button{
+    background-color: rgb(171, 171, 19);
+    cursor: pointer;
+}
+
+cart-button :hover{
+    background-color: rgb(255, 255, 255);
+}
+
+#category{
+    margin-left: 10vw;
+}
+.coname{
+    color: white;
+}

@@ -1,0 +1,211 @@
+{
+  "toppick": [
+    {
+      "id": 1,
+      "Name": "Accessories",
+      "offer": " Upto 80%",
+      "img": "https://i.ibb.co/mCN48jW/top1.jpg"
+    },
+    {
+      "id": 2,
+      "Name": "Men's Wear",
+      "offer": "Upto 70%",
+      "img": "https://i.ibb.co/r0R9hZ9/top2.webp"
+    },
+    {
+      "id": 3,
+      "Name": "Women's Wear",
+      "offer": " Upto 85%",
+      "img": "https://i.ibb.co/bNKxzGm/topx.jpg"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "mName": "Shirt",
+      "price": 1000,
+      "stock": 0,
+      "img": "https://i.ibb.co/MkRQKkm/men-shirt.png",
+      "Productprice": 2800,
+      "category": "Boy"
+    },
+    {
+      "id": 2,
+      "mName": "T-Shirt",
+      "price": 800,
+      "stock": 16,
+      "img": "https://i.ibb.co/NpBDjxJ/men-tshirt.png",
+      "Productprice": 2800,
+      "category": "Boy"
+    },
+    {
+      "id": 3,
+      "mName": "Shorts",
+      "price": 700,
+      "stock": 8,
+      "img": "https://i.ibb.co/zJXpjqz/men-shorts.png",
+      "Productprice": 820,
+      "category": "Boy"
+    },
+    {
+      "id": 4,
+      "mName": "Trousers",
+      "price": 820,
+      "stock": 15,
+      "img": "https://i.ibb.co/HPVf8Qn/men-trousers.png",
+      "category": "Boy"
+    },
+    {
+      "id": 5,
+      "mName": "Shirt",
+      "price": 1000,
+      "stock": 12,
+      "img": "https://i.ibb.co/48CNjZz/women-shirt.png",
+      "category": "Girl"
+    },
+    {
+      "id": 6,
+      "mName": "T-Shirt",
+      "price": 800,
+      "stock": 17,
+      "img": "https://i.ibb.co/PwWFk1Q/women-tshirt.png",
+      "category": "Girl"
+    },
+    {
+      "id": 7,
+      "mName": "Shorts",
+      "price": 700,
+      "stock": 17,
+      "img": "https://i.ibb.co/gtP24y9/women-shorts.png",
+      "Productprice": 1400,
+      "category": "Girl"
+    },
+    {
+      "id": 8,
+      "mName": "Trousers",
+      "price": 820,
+      "stock": 16,
+      "img": "https://i.ibb.co/PzfxQrx/women-trousers.png",
+      "category": "Girl"
+    },
+    {
+      "id": 9,
+      "mName": "Iphone",
+      "price": 1000,
+      "stock": 14,
+      "img": "https://i.ibb.co/jhsfDz7/Iphone.png",
+      "category": "Mobile"
+    },
+    {
+      "id": 10,
+      "mName": "Samsung",
+      "price": 800,
+      "stock": 11,
+      "img": "https://i.ibb.co/ySHJDZL/sa.png",
+      "Productprice": 1600,
+      "category": "Mobile"
+    },
+    {
+      "id": 11,
+      "mName": "Pixel",
+      "price": 700,
+      "stock": 0,
+      "img": "https://i.ibb.co/f99JCk2/pixel.png",
+      "Productprice": 1400,
+      "category": "Mobile"
+    },
+    {
+      "id": 12,
+      "mName": "Redmi",
+      "price": 820,
+      "stock": 0,
+      "img": "https://i.ibb.co/VY8xjRh/xiomi.png",
+      "Productprice": 820,
+      "category": "Mobile"
+    }
+  ],
+  "Login": {
+    "user": "sharan",
+    "pass": "sharan"
+  },
+  "selected": [
+    {
+      "Productid": 10,
+      "Productname": "Samsung",
+      "Productprice": 800,
+      "Productimg": "https://i.ibb.co/ySHJDZL/sa.png",
+      "stock": 11,
+      "quantity": 11,
+      "id": 3
+    },
+    {
+      "Productid": 9,
+      "Productname": "Iphone",
+      "Productprice": 1000,
+      "Productimg": "https://i.ibb.co/jhsfDz7/Iphone.png",
+      "stock": 14,
+      "quantity": 4,
+      "id": 4
+    },
+    {
+      "Productid": 3,
+      "Productname": "Shorts",
+      "Productprice": 700,
+      "Productimg": "https://i.ibb.co/zJXpjqz/men-shorts.png",
+      "stock": 8,
+      "quantity": 1,
+      "id": 5
+    },
+    {
+      "Productid": 2,
+      "Productname": "T-Shirt",
+      "Productprice": 800,
+      "Productimg": "https://i.ibb.co/NpBDjxJ/men-tshirt.png",
+      "stock": 16,
+      "quantity": 1,
+      "id": 6
+    }
+  ],
+  "order": [
+    {
+      "Productid": 1,
+      "Productname": "Samsung",
+      "Productprice": 2400,
+      "Productimg": "https://i.ibb.co/ySHJDZL/sa.png",
+      "stock": 3,
+      "id": 1
+    },
+    {
+      "Productid": 1,
+      "Productname": "Redmi",
+      "Productprice": 820,
+      "Productimg": "https://i.ibb.co/VY8xjRh/xiomi.png",
+      "stock": 1,
+      "id": 2
+    },
+    {
+      "Productid": 1,
+      "Productname": "Shorts",
+      "Productprice": 5600,
+      "Productimg": "https://i.ibb.co/gtP24y9/women-shorts.png",
+      "stock": 8,
+      "id": 3
+    },
+    {
+      "Productid": 1,
+      "Productname": "Iphone",
+      "Productprice": 4000,
+      "Productimg": "https://i.ibb.co/jhsfDz7/Iphone.png",
+      "stock": 4,
+      "id": 4
+    },
+    {
+      "Productid": 13,
+      "Productname": "MEN SHIRT",
+      "Productprice": 8400,
+      "Productimg": "https://i.ibb.co/MkRQKkm/men-shirt.png",
+      "stock": 3,
+      "id": 5
+    }
+  ]
+}

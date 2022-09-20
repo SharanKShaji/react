@@ -1,0 +1,70 @@
+* {box-sizing: border-box}
+
+.container {
+  padding: 16px;
+}
+.sign-container{
+  height: 200px;
+  width: 250px;
+  margin: auto;
+  padding-bottom: 80px;
+  padding-top: 3.3vw;
+}
+
+.signMain{
+  height:59vw;
+  width:23vw;
+  background-color: #ddd;
+  margin: auto;
+}
+
+input[type=text], input[type=style] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=style]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+input[type=style]:hover{
+  border: 1px solid black;
+}
+
+input[type=text]:hover{
+  border: 1px solid black;
+}
+
+.loginbtn {
+  background-color: rgba(21,21,31,255);
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.loginbtn:hover {
+  opacity:1;
+}
+
+.logIMG{
+  width: 30vw;
+  height: 40vw;
+}
+.img{
+  height: 100%;
+  width: 100%;
+}
+
+.regStatus{
+  color: red;
+  text-align: center;
+}

@@ -1,0 +1,71 @@
+* {box-sizing: border-box}
+
+.container {
+  padding: 16px;
+}
+.reg-container{
+  height: 200px;
+  width: 250px;
+  margin: auto;
+  margin-top: 180px;
+  padding-top: 10px;
+}
+.loginStatus{
+  text-align: center;
+}
+.logMain{
+  height:28vw;
+  width:23vw;
+  background-color: #ddd;
+  margin: auto;
+}
+
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+input[type=password]:hover{
+  border: 1px solid black;
+}
+
+input[type=text]:hover{
+  border: 1px solid black;
+}
+
+.loginbtn {
+  background-color: rgba(21,21,31,255);
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.loginbtn:hover {
+  opacity:1;
+}
+
+.logIMG{
+  width: 30vw;
+  height: 40vw;
+}
+.img{
+  height: 100%;
+  width: 100%;
+}
+
+.signupClass{
+  text-align: center;
+}

@@ -1,0 +1,11 @@
+.Select{
+    display: flex;
+    /* background-color: rgb(150, 155, 155); */
+    text-align: center;
+
+}
+.child{
+    flex-direction: column;
+    background-color: black;
+    flex: 1;
+}

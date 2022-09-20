@@ -1,0 +1,69 @@
+h1{
+    text-align: center;
+}
+.mainx{
+    justify-content: center;
+    display:grid;
+    padding-bottom: 7vw;
+    margin: auto;
+    grid-template-columns: auto auto auto ;
+    gap: 9vw;
+    
+}
+
+.con-cartbody{
+    width: 11vw;
+    height: 13vw;
+    padding: 5px;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.conimg{
+    width: 7vw;
+    height: 7vw;
+    margin: auto;
+}
+.conimg> img{
+    height: 100%;
+    width: 100%;
+}
+
+.conid{
+    display: none;
+}
+
+.conname{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.conprice{
+    color: red;
+}
+.countbtn1{
+    background-color: green;
+}
+
+.countbtn{
+    height: 20px;
+    width: 20px;
+    margin-right: 1px; ;
+}
+.countbtn2{
+    background-color: red;
+}
+
+.totalbtn{
+    text-align: center;
+}
+
+.cart-total{
+    background-color: blue;
+}
+
+.stock{
+    font-size: 12px;
+    color: red;
+}
